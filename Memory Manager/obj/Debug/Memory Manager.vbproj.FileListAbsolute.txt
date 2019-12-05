@@ -1,0 +1,11 @@
+c:\users\daniel\documents\visual studio 2015\Projects\Memory Manager\Memory Manager\bin\Debug\Memory Manager.exe.config
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Memory Manager\Memory Manager\bin\Debug\Memory Manager.exe
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Memory Manager\Memory Manager\bin\Debug\Memory Manager.pdb
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Memory Manager\Memory Manager\bin\Debug\Memory Manager.xml
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Memory Manager\Memory Manager\obj\Debug\Memory Manager.vbprojResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Memory Manager\Memory Manager\obj\Debug\Memory_Manager.Form1.resources
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Memory Manager\Memory Manager\obj\Debug\Memory_Manager.Resources.resources
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Memory Manager\Memory Manager\obj\Debug\Memory Manager.vbproj.GenerateResource.Cache
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Memory Manager\Memory Manager\obj\Debug\Memory Manager.exe
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Memory Manager\Memory Manager\obj\Debug\Memory Manager.xml
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Memory Manager\Memory Manager\obj\Debug\Memory Manager.pdb
